@@ -1,4 +1,4 @@
-# Minijuego "Cierre de cuentas"
+## Minijuego "Cierre de cuentas"
 - Creado a partir de [Node.js](https://nodejs.org/es/) junto a [TypeScript](https://www.typescriptlang.org/).
 - Paquetes utilizados: [inquirer](https://www.npmjs.com/package/inquirer), [colors](https://www.npmjs.com/package/colors).
 
