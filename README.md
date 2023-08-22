@@ -1,17 +1,17 @@
-## Minijuego "Cierre de cuentas"
-- Creado a partir de [Node.js](https://nodejs.org/es/) junto a [TypeScript](https://www.typescriptlang.org/).
-- Paquetes utilizados: [inquirer](https://www.npmjs.com/package/inquirer), [colors](https://www.npmjs.com/package/colors).
+## Mini Game "Account Closure"
+- Created using [Node.js](https://nodejs.org/en/) along with [TypeScript](https://www.typescriptlang.org/).
+- Used packages: [inquirer](https://www.npmjs.com/package/inquirer), [colors](https://www.npmjs.com/package/colors).
 
 ---
-### Recuerda instalar los paquetes de node
+### Remember to install the node packages
 - npm install
 
 ---
 
-### Scritps:
+### Scripts:
 - npm run compile
 - npm run start
 
 ---
-### Autor: 
-- FrankkC#2424
+### Author:
+- FrankkC
